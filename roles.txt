@@ -1,0 +1,8 @@
+dancer:username1
+dancer:username2
+bartender:username3
+bartender:username4
+guard:username5
+guard:username6
+admin:username7
+admin:username8
